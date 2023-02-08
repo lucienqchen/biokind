@@ -1,4 +1,4 @@
-name: biokind_analytics
+name: biokind-analytics
 channels:
   - defaults
 dependencies:
